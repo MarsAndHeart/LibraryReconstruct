@@ -13,6 +13,5 @@ include_directories(
 )
 
 add_executable(LibraryReconstruct
- src/hello_world.cpp
  src/main.cpp
 )
