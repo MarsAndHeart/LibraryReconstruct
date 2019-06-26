@@ -8,4 +8,6 @@ windows:
 	
 linux:
     git clone https://github.com/huangshangbin/LibraryReconstruct.git
-	cd LibraryReconstruct/
+	cd LibraryReconstruct/LibraryReconstruct
+	make
+	
